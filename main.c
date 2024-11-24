@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main(){
     printf("Vitej v soutezi Chcete byt milionarem.\n");
 
     int money = 0;
