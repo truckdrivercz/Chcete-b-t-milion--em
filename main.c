@@ -209,7 +209,7 @@ int main(){
         break;
     }
     printf("7. otazka (40 000 Kc)\n");
-    printf("Kolik je v lidskem tele kosti?\n A) 206\n B) 208\n C) 204\n D) 210\n");
+    printf("Kolik je v lidskem tele kosti?\n A) 206\n B) 208\n C) 204\n D) 210\n Pokud nechcete stisknete N\n");
     scanf(" %c", &answer);
     switch (answer){
     case 'A':
@@ -374,7 +374,7 @@ int main(){
         break;
     }
     printf("12. otazka (1 250 000 Kc)\n");
-    printf("Ktery jazyk ma nejvice rodilych mluvcu?\n A) Anglictina\n B) Spanelscina\n C) Hindstina\n D) Cinstina\n Pokud chcete skoncit stisknete Q\n");
+    printf("Ktery jazyk ma nejvice rodilych mluvcI?\n A) Anglictina\n B) Spanelstina\n C) Hindstina\n D) Cinstina\n Pokud chcete skoncit stisknete Q\n");
     scanf(" %c", &answer);
     switch (answer){
     case 'D':
